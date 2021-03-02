@@ -1,3 +1,0 @@
-# codeworld
-hello 
-world
